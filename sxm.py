@@ -125,6 +125,7 @@ class SiriusXM:
             }
         }
         data = self.post('resume?OAtrial=false', postdata, authenticate=False)
+        self.log(data)
         if not data:
             return False
 
