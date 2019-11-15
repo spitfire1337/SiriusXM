@@ -71,7 +71,7 @@ class SiriusXM:
                         'deviceInfo': {
                             'osVersion': 'Mac',
                             'platform': 'Web',
-                            'sxmAppVersion': '3.1802.10011.0',
+                            'sxmAppVersion': '5.20.3121.0',
                             'browser': 'Chrome',
                             'browserVersion': '78.0.3904.87',
                             'appRegion': 'US',
